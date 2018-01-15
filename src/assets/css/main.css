@@ -60,7 +60,7 @@
 
 	body, input, select, textarea {
 		color: #F5853F;
-		font-family: 'Press Start 2P', cursive;
+		font-family: Verdana, Geneva, sans-serif;
 		font-size: 30pt;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
