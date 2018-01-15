@@ -59,7 +59,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: #F5853F;
+		color: rgb(246, 134, 43);
 		font-family: Verdana, Geneva, sans-serif;
 		font-size: 30pt;
 		font-weight: 300 !important;
