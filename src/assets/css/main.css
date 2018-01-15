@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: pink url("images/bg.jpg") bottom left;
+		background: pink ;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
