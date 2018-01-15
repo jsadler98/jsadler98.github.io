@@ -59,7 +59,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: #F5853F;
+		color: black;
 		font-family: 'Press Start 2P', cursive;
 		font-size: 30pt;
 		font-weight: 300 !important;
@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #050609 ;
+		background: pink;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
