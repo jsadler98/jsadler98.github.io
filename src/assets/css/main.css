@@ -59,7 +59,7 @@
 /* Basic */
 
 .Image {
-  border: 2px rgb(246, 134, 43);
+  border: 2px orange;
 }
 
 	body, input, select, textarea {
