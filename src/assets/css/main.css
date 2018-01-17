@@ -58,11 +58,6 @@
 
 /* Basic */
 
-img {
-  width: 100px;
-  height: 100px;
-}
-
 	body, input, select, textarea {
 		color: rgb(246, 134, 43);
 		font-family: Verdana, Geneva, sans-serif;
