@@ -58,8 +58,9 @@
 
 /* Basic */
 
-a {
-  text-decoration: none;
+img {
+  width: 400%;
+  height: 200%;
 }
 
 	body, input, select, textarea {
@@ -515,6 +516,7 @@ a {
 		top: -1em;
 		vertical-align: middle;
 		width: 90%;
+    text-decoration: none;
 	}
 
 		#header h1 {
