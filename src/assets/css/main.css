@@ -526,6 +526,11 @@ a {
 			margin: 0.75em 0 0.25em 0;
 		}
 
+    .MyProjects {
+      font-size: 1.10em;
+      font-weight: 900;
+    }
+
 		#header nav {
 			margin: 1.5em 0 0 0;
 		}
