@@ -169,10 +169,6 @@ a {
 		width: 100%;
 	}
 
-  #wrapper a {
-    text-decoration: none;
-  }
-
 /* BG */
 
 	#bg {
@@ -626,13 +622,6 @@ a {
 					animation-delay: 4.75s;
 				}
 
-			#header nav a {
-				-webkit-tap-highlight-color: transparent;
-				-webkit-touch-callout: none;
-				border: 0;
-				display: inline-block;
-			}
-
 				#header nav a:before {
 					-moz-transition: all 0.2s ease-in-out;
 					-webkit-transition: all 0.2s ease-in-out;
@@ -658,9 +647,6 @@ a {
 					background: none;
 				}
 
-				#header nav a span {
-					display: none;
-				}
 
 /* Footer */
 
