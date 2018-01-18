@@ -58,6 +58,10 @@
 
 /* Basic */
 
+a {
+  text-decoration: none !important;
+}
+
 	body, input, select, textarea {
 		color: rgb(246, 134, 43);
 		/* font-family: Verdana, Geneva, sans-serif; */
@@ -88,7 +92,7 @@
 		border-bottom: dotted 1px;
 		color: inherit;
 		outline: 0;
-		text-decoration: none;
+		text-decoration: none !important;
 	}
 
 		a:hover {
