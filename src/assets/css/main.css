@@ -59,7 +59,7 @@
 /* Basic */
 
 a {
-text-decoration-line: none !important;
+  text-decoration: none !important;
 }
 
 	body, input, select, textarea {
@@ -92,7 +92,6 @@ text-decoration-line: none !important;
 		border-bottom: dotted 1px;
 		color: inherit;
 		outline: 0;
-    text-decoration-line: none !important;
 	}
 
 		a:hover {
@@ -632,7 +631,6 @@ text-decoration-line: none !important;
 				-webkit-touch-callout: none;
 				border: 0;
 				display: inline-block;
-        text-decoration-line: none !important;
 			}
 
 				#header nav a:before {
@@ -662,7 +660,6 @@ text-decoration-line: none !important;
 
 				#header nav a span {
 					display: none;
-          text-decoration-line: none !important;
 				}
 
 /* Footer */
