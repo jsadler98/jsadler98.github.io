@@ -60,7 +60,8 @@
 
 	body, input, select, textarea {
 		color: rgb(246, 134, 43);
-		font-family: Verdana, Geneva, sans-serif;
+		/* font-family: Verdana, Geneva, sans-serif; */
+    font-family: Helvetica, Arial, sans-serif;
 		font-size: 30pt;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
