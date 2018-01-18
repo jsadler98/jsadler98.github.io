@@ -92,7 +92,6 @@ a {
 		border-bottom: dotted 1px;
 		color: inherit;
 		outline: 0;
-		text-decoration: none !important;
 	}
 
 		a:hover {
