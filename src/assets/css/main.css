@@ -59,7 +59,7 @@
 /* Basic */
 
 a {
-  text-decoration: none !important;
+text-decoration-line: none !important;
 }
 
 	body, input, select, textarea {
@@ -92,6 +92,7 @@ a {
 		border-bottom: dotted 1px;
 		color: inherit;
 		outline: 0;
+    text-decoration-line: none !important;
 	}
 
 		a:hover {
@@ -631,6 +632,7 @@ a {
 				-webkit-touch-callout: none;
 				border: 0;
 				display: inline-block;
+        text-decoration-line: none !important;
 			}
 
 				#header nav a:before {
@@ -660,6 +662,7 @@ a {
 
 				#header nav a span {
 					display: none;
+          text-decoration-line: none !important;
 				}
 
 /* Footer */
