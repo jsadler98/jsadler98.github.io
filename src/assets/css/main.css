@@ -60,6 +60,7 @@
 
 a {
   text-decoration: none !important;
+  text-decoration-style: solid;
 }
 
 	body, input, select, textarea {
