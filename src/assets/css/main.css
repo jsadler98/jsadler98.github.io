@@ -60,6 +60,12 @@
 
 a {
   text-decoration: none !important;
+  -moz-transition: border-color 0.2s ease-in-out;
+  -webkit-transition: border-color 0.2s ease-in-out;
+  -ms-transition: border-color 0.2s ease-in-out;
+  transition: border-color 0.2s ease-in-out;
+  color: inherit;
+  outline: 0;
 }
 
 	body, input, select, textarea {
@@ -84,14 +90,14 @@ a {
 			animation: none !important;
 		}
 
-	/* a {
+	a {
 		-moz-transition: border-color 0.2s ease-in-out;
 		-webkit-transition: border-color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out;
 		color: inherit;
 		outline: 0;
-	} */
+	}
 
 		a:hover {
 			border-color: transparent;
