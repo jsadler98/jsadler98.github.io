@@ -1131,7 +1131,7 @@
 		width: 100%;
 		padding: 4rem 2rem;
 		z-index: 3;
-    background-image: url("http://www.tate.org.uk/art/images/work/T/T03/T03978_10.jpg") !important;
+    background-color: rgb(35, 31, 32) !important;
 	}
 
 		#wrapper:before {
