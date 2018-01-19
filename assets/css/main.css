@@ -1203,6 +1203,7 @@
 				width: 1px;
 				height: calc(3.5rem + 1px);
 				background: #ffffff;
+        border-color: rgb(246, 134, 43);
 			}
 
 		#header > :first-child {
