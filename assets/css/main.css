@@ -580,6 +580,7 @@
 		border-bottom: none;
 		position: relative;
     padding-left: 0.40em;
+    padding-right: 0.40em;
 	}
 
 		.icon:before {
