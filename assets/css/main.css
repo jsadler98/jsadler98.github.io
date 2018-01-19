@@ -136,7 +136,7 @@
 		}
 
 	strong, b {
-		color: #ffffff;
+		color: rgb(246, 134, 43);
 		font-weight: 600;
 	}
 
@@ -149,7 +149,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: rgb(246, 134, 43);
 		font-weight: 600;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
@@ -163,7 +163,7 @@
 		}
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
-			border-bottom: solid 1px #ffffff;
+			border-bottom: solid 1px rgb(246, 134, 43);
 			width: -moz-max-content;
 			width: -webkit-max-content;
 			width: -ms-max-content;
@@ -227,14 +227,14 @@
 	}
 
 	blockquote {
-		border-left: solid 4px #ffffff;
+		border-left: solid 4px rgb(246, 134, 43);
 		font-style: italic;
 		margin: 0 0 2rem 0;
 		padding: 0.5rem 0 0.5rem 2rem;
 	}
 
 	code {
-		background: rgba(255, 255, 255, 0.075);
+		background: rgb(246, 134, 43);
 		border-radius: 4px;
 		font-family: "Courier New", monospace;
 		font-size: 0.9rem;
@@ -258,7 +258,7 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px #ffffff;
+		border-bottom: solid 1px rgb(246, 134, 43);
 		margin: 2.75rem 0;
 	}
 
@@ -333,7 +333,7 @@
 		}
 
 	label {
-		color: #ffffff;
+		color: rgb(246, 134, 43);
 		display: block;
 		font-size: 0.8rem;
 		font-weight: 300;
@@ -359,7 +359,7 @@
 		transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		background: transparent;
 		border-radius: 4px;
-		border: solid 1px #ffffff;
+		border: solid 1px rgb(246, 134, 43);
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -383,9 +383,9 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			background: rgba(255, 255, 255, 0.075);
-			border-color: #ffffff;
-			box-shadow: 0 0 0 1px #ffffff;
+			background: rgb(246, 134, 43);
+			border-color: rgb(246, 134, 43);
+			box-shadow: 0 0 0 1px rgb(246, 134, 43);
 		}
 
 	select option {
@@ -409,7 +409,7 @@
 		}
 
 		.select-wrapper:before {
-			color: #ffffff;
+			color: rgb(246, 134, 43);
 			content: '\f107';
 			display: block;
 			height: 2.75rem;
