@@ -114,7 +114,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #ffffff;
+		color: rgb(246, 134, 43);
 		font-family: "Source Sans Pro", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
