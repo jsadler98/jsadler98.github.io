@@ -1217,7 +1217,7 @@
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 1px #ffffff;
+			border: solid 1px rgb(246, 134, 43) !important;
 			border-radius: 100%;
 		}
 
@@ -1227,7 +1227,7 @@
 
 		#header .content {
 			border-style: solid;
-			border-color: #ffffff;
+			border-color: rgb(246, 134, 43) !important;
 			border-top-width: 1px;
 			border-bottom-width: 1px;
 			max-width: 100%;
@@ -1480,7 +1480,7 @@
 				-ms-transform: translateY(0);
 				transform: translateY(0);
 				opacity: 1;
-        background-color: #2F2F2F;
+        background-color: #2F2F2F !important;
 			}
 
 			#main article .close {
