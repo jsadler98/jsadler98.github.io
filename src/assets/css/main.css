@@ -59,7 +59,7 @@
 /* Basic */
 
 a {
-  text-decoration-line: underline !important;
+  text-decoration: none !important;
   -moz-transition: border-color 0.2s ease-in-out;
   -webkit-transition: border-color 0.2s ease-in-out;
   -ms-transition: border-color 0.2s ease-in-out;
