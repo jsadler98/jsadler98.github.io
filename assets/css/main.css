@@ -89,6 +89,10 @@
 		font-size: 16pt;
 	}
 
+  .fa-github:before {
+    text-decoration: none !important;
+  }
+
 		@media screen and (max-width: 1680px) {
 
 			html {
