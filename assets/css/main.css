@@ -1131,7 +1131,7 @@
 		width: 100%;
 		padding: 4rem 2rem;
 		z-index: 3;
-    background-color: rgb(35, 31, 32);
+    background-color: rgb(35, 31, 32) !important;
 	}
 
 		#wrapper:before {
