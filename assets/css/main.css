@@ -579,6 +579,7 @@
 		text-decoration: none !important;
 		border-bottom: none;
 		position: relative;
+    padding-left: 2em;
 	}
 
 		.icon:before {
