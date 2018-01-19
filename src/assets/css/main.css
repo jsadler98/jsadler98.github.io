@@ -533,6 +533,11 @@ a {
 
     .Projects {
       font-size: 1em !important;
+      font-weight: 900;
+    }
+
+    .links {
+      font-weight: 900;
     }
 
 		#header nav {
