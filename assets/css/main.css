@@ -65,7 +65,7 @@
 	}
 
 	body {
-		background: #1b1f22;
+		background: rgb(35, 31, 32);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after, body.is-switching *, body.is-switching *:before, body.is-switching *:after {
@@ -119,6 +119,7 @@
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
+    background-color: rgb(35, 31, 32) !important;
 	}
 
 	a {
@@ -234,7 +235,7 @@
 	}
 
 	code {
-		background: rgba(255, 255, 255, 0.075);
+		background: rgb(35, 31, 32);
 		border-radius: 4px;
 		font-family: "Courier New", monospace;
 		font-size: 0.9rem;
@@ -602,8 +603,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-image: url("../../images/overlay.png");
-			background-color: rgba(19, 21, 25, 0.5);
+			background-color: rgb(35, 31, 32);
 			border-radius: 4px;
 			content: '';
 			display: block;
@@ -882,7 +882,7 @@
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: rgba(255, 255, 255, 0.075);
+				background-color: rgb(35, 31, 32);
 			}
 
 		table td {
@@ -1069,8 +1069,7 @@
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
-			background-size: auto, 256px 256px;
+	    background-color: rgb(35, 31, 32);
 			background-position: center, center;
 			background-repeat: no-repeat, repeat;
 			z-index: 2;
@@ -1085,7 +1084,7 @@
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
+			background-color: rgb(35, 31, 32);
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
@@ -1104,7 +1103,7 @@
 		}
 
 		body.is-loading #bg:before {
-			background-color: #000000;
+			background-color: rgb(35, 31, 32);
 		}
 
 /* Wrapper */
