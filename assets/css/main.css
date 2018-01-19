@@ -1266,13 +1266,13 @@
 			margin-bottom: 0;
 			list-style: none;
 			padding-left: 0;
-			border: solid 1px #ffffff;
+			border: solid 1px rgb(246, 134, 43);
 			border-radius: 4px;
 		}
 
 			#header nav ul li {
 				padding-left: 0;
-				border-left: solid 1px #ffffff;
+				border-left: solid 1px rgb(246, 134, 43);
 			}
 
 				#header nav ul li:first-child {
@@ -1307,7 +1307,7 @@
 			left: calc(50% - 1px);
 			width: 1px;
 			height: 100%;
-			background: #ffffff;
+			background: rgb(246, 134, 43);
 		}
 
 		#header nav.use-middle ul li.is-middle {
@@ -1404,7 +1404,6 @@
 
 					#header nav ul li {
 						border-left: 0;
-						border-top: solid 1px #ffffff;
 					}
 
 						#header nav ul li:first-child {
