@@ -579,7 +579,6 @@
 		text-decoration: none !important;
 		border-bottom: none;
 		position: relative;
-    font-size: 10px;
 	}
 
 		.icon:before {
@@ -589,6 +588,7 @@
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
+      font-size: 30px;
 		}
 
 		.icon > .label {
