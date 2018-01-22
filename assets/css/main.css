@@ -583,15 +583,6 @@
     padding-right: 0.40em;
 	}
 
-  .devicon-heroku-original {
-    text-decoration: none !important;
-    border-bottom: none;
-    position: relative;
-    padding-left: 0.40em;
-    padding-right: 0.40em;
-    font-size: 40px;
-  }
-
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
