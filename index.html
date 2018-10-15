@@ -10,48 +10,6 @@
 
   gtag('config', 'UA-126534414-1');
 </script>
-<script type="text/javascript">
-  function createPopup() {
-    var img = "/yabeauty.jpg";;
-    var link = "http://bit.ly/2suXpFM";
-    bioEp.init({
-      width: 500,
-      height: 500,
-      html: '<a href="' + link + '" title="Exclusive Offer" target="_blank" style="position:absolute;z-index:200;"><img src="' + img + '" alt="Exclusive Offer" style="width:500px;height:500px;" /></a>',
-      css: '#bio_ep_close {width:30px;height:30px;font-size:24px;line-height:32px;z-index:300;}',
-      delay: 10,
-      showOnDelay: true,
-      cookieExp: 3
-    });
-  }
-  function createTegPopup() {
-    var img = "/yabeauty.jpg";
-    var link = "http://bit.ly/2JOwkpg";
-    bioEp.init({
-      width: 500,
-      height: 500,
-      html: '<a href="' + link + '" title="Exclusive Offer" target="_blank" style="position:absolute;z-index:200;"><img src="' + img + '" alt="Exclusive Offer" style="width:500px;height:500px;" /></a>',
-      css: '#bio_ep{background-color:transparent;box-shadow:none;}#bio_ep_close {width:30px;height:30px;font-size:24px;line-height:32px;z-index:300;}',
-      delay: 10,
-      showOnDelay: true,
-      cookieExp: 7,
-      closeOnClick: true,
-    });
-  }
-  function checkCountry() {
-    jQuery.get("http://pro.ip-api.com/json/?key=PxIc6beJBFuxyMW", function (response) {
-      var country = response.countryCode;
-      if(country == 'US' || country == 'CA') {
-        // createPopup();
-      } else {
-        // createTegPopup();
-      };
-    }, "jsonp");
-  }
-  jQuery(document).ready(function() {
-    checkCountry();
-  });
-</script>
 <title>JoshuaSadler</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
