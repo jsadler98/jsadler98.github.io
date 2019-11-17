@@ -173,7 +173,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   text-decoration: none !important;
 }
 
-h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
+/* h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
   border-bottom: solid 1px rgb(246, 134, 43);
   width: -moz-max-content;
   width: -webkit-max-content;
@@ -181,7 +181,7 @@ h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
   width: max-content;
   padding-bottom: 0.5rem;
   margin: 0 0 2rem 0;
-}
+} */
 
 h1 {
   font-size: 2.25rem;
